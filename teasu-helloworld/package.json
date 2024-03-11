@@ -1,12 +1,17 @@
 {
   "name": "teasu-helloworld",
-  "version": "0.1.0",
-  "private": true,
+  "version": "4.1.1",
+  "private": false,
+  "main": "postcss.config.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "repository": {
+     "type":"git",
+     "url":"https://github.com/iqbal-hanafi/teasu-hello-world"
   },
   "dependencies": {
     "react": "^18",
