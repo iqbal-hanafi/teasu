@@ -1,2 +1,1 @@
-# teasu
-ya hello world
+teasu
