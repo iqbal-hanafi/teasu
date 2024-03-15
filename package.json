@@ -1,0 +1,15 @@
+{
+  "name": "teasu-helloworld",
+  "version": "1.0.1",
+  "private": false,
+  "main": "main.js",
+  "scripts": {
+      "hello": "node main.js"
+  },
+  "repository": {
+     "type":"git",
+     "url":"https://github.com/iqbal-hanafi/teasu-hello-world"
+  },
+  "dependencies": {
+  }
+}
